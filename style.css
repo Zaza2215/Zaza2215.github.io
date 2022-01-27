@@ -1,0 +1,30 @@
+body
+{
+  background: url(image/background_white.jpg);
+  color: #4d3903;
+}
+img
+{
+  box-shadow: 10px 10px 20px #575551;
+  opacity: 0.9;
+}
+a
+{
+    color: green;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+#main_text
+{
+  font-family: "Arial", Helvetica, sans-serif;
+  font-size : 48px;
+}
+.p_border
+{
+  border: 3px solid black;
+  border-radius: 25px;
+  padding-top: 40px;
+  padding-bottom : 40px;
+  padding-right : 20px;
+  padding-left : 20px;
+  margin: 50px;
+}
